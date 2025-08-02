@@ -38,8 +38,10 @@ streamlit-app/
    git clone https://github.com/ckped/json_to_excel_for_goldencard.git
    cd json_to_excel_for_goldencard
 2.安裝套件:
+   ```bash
    pip install -r requirements.txt
 3.啟動streamlit:
+   ```bash
    streamlit run text_to_excel1+.py
    
 
