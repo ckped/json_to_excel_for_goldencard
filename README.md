@@ -39,7 +39,7 @@ streamlit-app/
 ## 🔧 安裝與本地執行
 1. 下載專案：
    ```bash
-   git clone https://github.com/ckped/json_to_excel_for_goldencard.git
+   git clone https://github.com/ianchen-adu/json_to_excel_for_goldencard.git
    cd json_to_excel_for_goldencard
    ```
 
